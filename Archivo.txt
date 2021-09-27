@@ -1,8 +1,5 @@
 Prueba
 este es el cambio de santiago
-<<<<<<< HEAD
 
 Prueba 2 al tiempo
-=======
 este es el cambio de Cristian
->>>>>>> main
