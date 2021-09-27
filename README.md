@@ -1,2 +1,2 @@
-# GMSoftwww
+# GMSoft
 Grades manager Software
